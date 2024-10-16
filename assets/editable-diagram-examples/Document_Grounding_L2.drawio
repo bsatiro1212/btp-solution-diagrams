@@ -377,7 +377,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ItjbWDT4DhZI4Bx0S1t" name="Página-3">
-    <mxGraphModel dx="1492" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1755" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,8 +779,8 @@
         <mxCell id="wtQ6NNboZCB8xihkhSuY-130" value="" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=#D5DADD;fillColor=#EDEFF0;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Datasphere" parent="1" vertex="1">
           <mxGeometry x="1310" y="-504.24" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4x_iS6HBuitf9r3uJUuY-3" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Connecting different data sources&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Effective management and governance of data from different sources;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Extract insights from analytical solutions;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Integrate applications, systems and services;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;Optimize and stimulate innovation through IoT, AI, ML solutions&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Use solutions such as SAP Conversational AI for chatbots or SAP iRPA for automation via intelligent bots.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#ADD8E6;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#ADD8E6;shadow=1;size=30;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="-800" width="170" height="473.39" as="geometry" />
+        <mxCell id="4x_iS6HBuitf9r3uJUuY-3" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Connecting different data sources&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Effectively manage and govern data from different sources;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Extract insights from analytics solutions;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Integrate applications, systems and services;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Optimize and innovate through IoT solutions.&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#ADD8E6;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#ADD8E6;shadow=1;size=30;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-800" width="170" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4x_iS6HBuitf9r3uJUuY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wtQ6NNboZCB8xihkhSuY-94" target="4x_iS6HBuitf9r3uJUuY-3">
           <mxGeometry relative="1" as="geometry" />
