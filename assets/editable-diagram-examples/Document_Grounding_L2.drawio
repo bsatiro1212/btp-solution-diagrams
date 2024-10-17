@@ -480,11 +480,8 @@
         <mxCell id="wtQ6NNboZCB8xihkhSuY-75" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1290" y="-1091.09" width="1032.827699321349" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="wtQ6NNboZCB8xihkhSuY-94" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" parent="wtQ6NNboZCB8xihkhSuY-75" vertex="1">
-          <mxGeometry x="20" y="10" width="340.00000000000006" height="430" as="geometry" />
-        </mxCell>
         <mxCell id="BtPc3vliLNrOCbSalqbi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=0;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="wtQ6NNboZCB8xihkhSuY-75">
-          <mxGeometry x="10" width="360" height="920" as="geometry" />
+          <mxGeometry x="10" width="360" height="300" as="geometry" />
         </mxCell>
         <mxCell id="wtQ6NNboZCB8xihkhSuY-76" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" parent="wtQ6NNboZCB8xihkhSuY-75" vertex="1">
           <mxGeometry x="29.999999999999943" y="100" width="164.97" height="100" as="geometry" />
